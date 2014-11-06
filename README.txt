@@ -2,7 +2,7 @@ Ricart-Argrawala/Lamport Distributed Systems Application
 By: Manuel Perez, Alex King
 
 
-This is a program that makes use of the Ricart-Argrawala algorithm
+This is a program that makes use of the Ricart-Agrawala algorithm
 to simulate mutual exclusion access to resources and the Lamport
 Timestamps algorithm to update its clock according to the clock of
 the copies.
